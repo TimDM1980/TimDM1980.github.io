@@ -3,6 +3,7 @@ published: true
 title: Setting up this Blog
 layout: post
 ---
+
 My first post is about how I set up this blog.
 
 I knew that GitHub had a project called [GitHub Pages](https://pages.github.com/), which basically serves a static website for your GitHub project.
@@ -23,7 +24,7 @@ TinyPress does 2 things for you:
 TinyPress worked like a charm and saved me a lot of time!
 
 Now that I am all set up, I could decide to break free from TinyPress and write my blogs locally.
-I could do this by pulling the changes to my machine, see how TinyPress stores blog content, write new posts and preview them in an editor that supports markdown previewing, like Visual Studio Code.
+I could do this by pulling the changes to my machine, see how TinyPress stores blog content, write new posts and preview them in an editor that supports markdown previewing, like [Visual Studio Code](https://code.visualstudio.com).
 
 However, TinyPress offers some interesting features, like tags, categories, delayed posting, ...
 They also offer an Android app, but I haven't tried it out just yet.
