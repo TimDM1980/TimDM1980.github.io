@@ -28,5 +28,7 @@ TinyPress worked like a charm and saved me a lot of time!
 Now that I am all set up, I could decide to break free from TinyPress and write my blogs locally.
 I could do this by pulling the changes to my machine, see how TinyPress stores blog content, write new posts and preview them in an editor that supports markdown previewing, like [Visual Studio Code](https://code.visualstudio.com).
 
-However, TinyPress offers some interesting features, like tags, categories, delayed posting, ...
+However, TinyPress offers some interesting features, like creating a post by sending an e-mail or delayed posting options.
 They also offer an Android app, but I haven't tried it out just yet.
+You can also add tags and categories to your post, but this doesn't seem to do anything.
+I may have to read up on Jekyll and tags/categories in order for this to work...
