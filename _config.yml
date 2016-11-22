@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://bktid.github.io
+title: Tim De Meyer
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
