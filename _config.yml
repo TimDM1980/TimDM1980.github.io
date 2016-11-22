@@ -1,9 +1,8 @@
 excerpt_separator: ""
 highlighter: rouge
-#pygments: true
 markdown: kramdown
 url: http://bktid.github.io
 title: Tim De Meyer
-tagline: A log of everyday life
-description: My awesome new site
+tagline: Coffee solves every problem
+description: What's in my drawer?
 paginate: 5
