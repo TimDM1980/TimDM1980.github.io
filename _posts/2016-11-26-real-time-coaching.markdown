@@ -6,6 +6,10 @@ tags: [neuro-science, NLP, coaching, xpdays]
 categories: [Conference]
 ---
 
+_All used images are clackable and clicking them leads to their source._
+
+Personal rating: 4/5
+
 On the first day of [XP Days 2016 Benelux](http://www.xpday.net/2016/), I attended the [Real Time Coaching](http://www.xpday.net/2016/thursday/#session_468) workshop given by agile coach [Dajo Breddels](http://www.dajobreddels.com/) and hypnotherapist Wijnand van Colle.
 Their intent was to give us some insights from Neuro-Science and combine that with some NLP techniques, to make us more effective coaches.
 In this post, I will guide you through the workshop and tell you the things I learned.
@@ -44,3 +48,32 @@ The trainers also mentioned the effect of the [feedback sandwich](http://www.min
 
 ## Peripheral Vision
 
+Now it was time to try out peripheral vision. We had to focus (focal vision) on a blue dot and then try to slowly extend our visual field. The result is that you kindof get this very wide view and see a lot of things going on that you would otherwise miss because you cannot _focus_ on everything all at once. You can compare it to that teacher that seemed to have eyes on his back and always saw when somebody did womething wrong. To me it also seemed less exhausting than trying to keep an overview by focussing on everything. It also makes you more receptive to sound. Dajo said he uses this when observing a scrum in his role of agile coach.
+
+[![](http://www.eyehealthweb.com/wp-content/uploads/6_Peripheral-Vision-300x225.jpg)](http://www.eyehealthweb.com/wp-content/uploads/6_Peripheral-Vision-300x225.jpg)
+
+## Associated VS Dissociated
+
+Here the trainers were explaining that a person can be in different _states of mind_, namely they can either be associated or they can be dissociated. Each state has its own advantages and disadvantages. The reason this is important is because you can only coach someone in the _here and now_ so you need him/her to be associated.
+
+&nbsp; | Associated | Dissociated
+--- | --- | ---
+ | here and now | thinking about doing something 
+ | absorbed | observing
+ | inside your body | feeling at a distance
+ | sensory experiences | no sensory experiences
+ | no track of time | aware of time
+Advantages | memorable | impersonal 
+ | enjoyable | good for reflection
+Disadvantages | lack of objectivity | dull, bored  
+ | difficult to analyse, reflect | uninvolved
+
+With the BAGEL model, you can spot if someone is associated or dissociated. We did an exercise on this in pairs: we had to guess in which state our partner was, which was quite hard to do if you are unskilled in this area. It seems everyone also has a preferred state. I learned my preferred state is dissociated. This came as no surprise since [Insights](https://www.insights.com/) taught me that I'm an observer and very analytical. I also learned during the exercise that it's very hard to put yourself in your unpreferred state :-)   
+
+[![](http://nlp-insider.com/media/flipcharts-master/084-m-modelling-06-bagel-modell.jpg){:width="720px"}](http://nlp-insider.com/media/flipcharts-master/084-m-modelling-06-bagel-modell.jpg)
+
+You can take this even further by tricking people to go into the state you want them to be in. I guess we're touching the _dark side_ of NLP here :-) For example, if you want someone to be associated, try to be associated yourself. You can also ask certain questions to provoque a certain state. If you want someone to be associated, you could ask them things like _go back to that moment, whate are you doing?_, _how do you feel?_ or _what do you see/hear?_. For the dissociated state, you could ask _how did you do that task?_ or _where do you see yourself in a month time?_. This could help when you feel someone is stressed out. Notice the difference in the questions between the present and the past/future respectively.
+
+## Conclusion
+
+I liked this workshop very much, because I learned about some stuff I had never heard of and saw how it could be applied to my role as a team coach. If you want to know more, the trainers pointed us to a book call [Brain Rules](https://www.amazon.com/Brain-Rules-Updated-Expanded-Principles/dp/098326337X/).
