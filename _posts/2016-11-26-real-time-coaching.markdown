@@ -78,4 +78,4 @@ You can take this even further by tricking people to go into the state you want 
 
 ## Conclusion
 
-I liked this workshop very much, because I learned about some stuff I had never heard of and saw how it could be applied to my role as a team coach. If you want to know more, the trainers pointed us to a book called [Brain Rules](https://www.amazon.com/Brain-Rules-Updated-Expanded-Principles/dp/098326337X/).
+I liked this workshop very much, because I learned about some stuff I had never heard of and saw how it could be applied to my role as a team coach. If you want to know more, the trainers pointed us to a book called [Brain Rules](https://www.amazon.com/Brain-Rules-Updated-Expanded-Principles/dp/098326337X/). Also, the trainers will soon launch a website at [http://www.brainbased-leadership.com](http://www.brainbased-leadership.com).
