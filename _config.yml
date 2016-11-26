@@ -3,6 +3,6 @@ highlighter: rouge
 markdown: kramdown
 url: http://bktid.github.io
 title: Tim De Meyer
-tagline: Coffee solves every problem
+tagline: Coffee solves every problem! Either that, or a level of indirection...
 description: What's in my drawer?
 paginate: 5
