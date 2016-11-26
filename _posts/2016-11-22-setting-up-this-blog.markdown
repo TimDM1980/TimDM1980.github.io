@@ -4,7 +4,6 @@ title: Setting up this Blog
 layout: post
 tags: [tinypress, jekyll]
 categories: [Howto]
-comments: true
 ---
 My first post is about how I set up this blog.
 
