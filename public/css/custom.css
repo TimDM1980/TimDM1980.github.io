@@ -1,0 +1,10 @@
+.post-avatar {
+  float: left;
+  margin-right: .5em;
+  border-radius: 30%;
+}
+
+.whoami-logo {
+  display: inline;
+  margin-right: .5em;
+}
