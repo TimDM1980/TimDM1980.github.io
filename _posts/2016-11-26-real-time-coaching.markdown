@@ -36,7 +36,7 @@ Next up was Neuroplasticity, which is about how the brain is constantly changing
 
 ## Direct Feedback
 
-Now it was time to apply all this and to refine our coaching skills. The most important thing I learned was about coaching at the right time, which is while the activity is still going on. I'll try to explain why this is so very important: when a coachee is doing an activity, he or she is firing impulses in a certain area in the brain. When you as a coach are coaching him/her, this is also firing impulses in another part of the brain. In order for your coaching to _stick_, connections must be established betweend these different parts. These connections can ony be made while both parts are busy firing impulses. In conclusion, __coaching must be done by giving direct feedback!__
+Now it was time to apply all this and to refine our coaching skills. The most important thing I learned was about coaching at the right time, which is while the activity is still going on. I'll try to explain why this is so very important: when a coachee is doing an activity, he or she is firing impulses in a certain area in the brain. When you as a coach are coaching him/her, this is also firing impulses in another part of the brain. In order for your coaching to _stick_, connections must be established betweend these different parts. These connections can only be made while both parts are busy firing impulses. In conclusion, __coaching must be done by giving direct feedback!__
 
 ![]({{site.url}}/public/assets/2016-11-26-real-time-coaching/direct-feedback.jpg){:width="720px"}
 
@@ -48,11 +48,11 @@ The trainers also mentioned the effect of the [feedback sandwich](http://www.min
 
 ## Peripheral Vision
 
-Now it was time to try out peripheral vision. We had to focus (foveal vision) on a blue dot and then try to slowly extend our visual field. The result is that you kindof get this very wide view and __see a lot of things going on that you would otherwise miss__ because you cannot _focus_ on everything all at once.
+Now it was time to try out peripheral vision. We had to focus (foveal vision) on a blue dot and then try to slowly extend our visual field. The result is that you kind of get this very wide view and __see a lot of things going on that you would otherwise miss__ because you cannot _focus_ on everything all at once.
 
 [![](http://www.eyehealthweb.com/wp-content/uploads/6_Peripheral-Vision-300x225.jpg)](http://www.eyehealthweb.com/wp-content/uploads/6_Peripheral-Vision-300x225.jpg)
 
-You can compare it to that teacher that seemed to have eyes on his back and always saw when somebody did womething wrong. To me it also seemed less exhausting than trying to keep an overview by focussing on everything. It also makes you more receptive to sound. Dajo said he uses this when observing a scrum in his role of agile coach.
+You can compare it to that teacher that seemed to have eyes on his back and always saw when somebody did something wrong. To me it also seemed less exhausting than trying to keep an overview by focussing on everything. It also makes you more receptive to sound. Dajo said he uses this when observing a scrum in his role of agile coach.
 
 ## Associated VS Dissociated
 
