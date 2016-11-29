@@ -1,6 +1,6 @@
 ---
 published: true
-title: The 4 levels of the skill matrix
+title: Agile Architecture by QWAN
 layout: post
 tags: [architecture, DDD, eventsourcing, CQRS, hexagonal, xpdays]
 categories: [Conference]
