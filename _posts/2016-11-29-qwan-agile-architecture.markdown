@@ -23,10 +23,8 @@ I've listed some findings about them that I found interesting or wasn't yet full
 * DDD: if you have a concept that exists in more than one subdomain, this concept should get separate storage per subdomain.
 * Event Sourcing: choose things that have a short lifecycle in your domain (e.g. an order vs a customer). 
 * Event Sourcing: business events are more stable than the domain model. 
-* CQRS: events were propagated to an indexer and went in an elastic search store. This served as the source for querying the read model / doing projections.
+* CQRS: events were propagated to an indexer and went into an Elastic search store. This served as the source for querying the read model / doing projections.
 * Hexagonal Architecture: with a layered architecture it's easy to end up with a domain that depends on the DB / Hibernate. Thinking in terms of ports and adapters steers you away from this pitfall.
 
-I don't feel much for writing this out as a story for you to read, you can find good info about the above concepts on the web.
-Due to the nature of this presentation, I also don't feel comfortable with sharing any pictures. 
 It was nice to hear how the use of ES and CQRS helped to turn this project into a success.
 Great job QWAN! 
