@@ -2,21 +2,21 @@
 published: true
 title: Zoolocracy
 layout: post
-tags: [holocracy, craftsmanship, xpdays]
+tags: [holacracy, craftsmanship, xpdays]
 categories: [Conference]
 ---
 
-On the second day of [XP Days 2016 Benelux](http://www.xpday.net/2016/), I attended the [Holocracy session](http://www.xpday.net/2016/friday/#session_456) by [Martin van Dijken](https://twitter.com/@sunsear) and [Jeff Kok](https://nl.linkedin.com/in/jeff-kok-7173903).
+On the second day of [XP Days 2016 Benelux](http://www.xpday.net/2016/), I attended the [Holacracy session](http://www.xpday.net/2016/friday/#session_456) by [Martin van Dijken](https://twitter.com/@sunsear) and [Jeff Kok](https://nl.linkedin.com/in/jeff-kok-7173903).
 They have [shared their slides](https://docs.google.com/presentation/d/1Oq7hyYVO6ffE9L1IrLS6CPCQBk2kZhRRNlEdisw7ptc/edit#slide=id.p4) if you're interested.
-In this session, they showed us how to evolve our scrum team by adding some core Holocracy concepts, and they did this by making us build a zoo!
+In this session, they showed us how to evolve our scrum team by adding some core Holacracy concepts, and they did this by making us build a zoo!
 
-## Holocracy
+## Holacracy
 
-I can't recall a genuine introduction to Holocracy or something about it's origin.
-We talked a bit about what Holocracy would bring to the table, being __purpose, roles, strategies and evolutionary change__.
+I can't recall a genuine introduction to Holacracy or something about it's origin.
+We talked a bit about what Holacracy would bring to the table, being __purpose, roles, strategies and evolutionary change__.
 We elaborated a few minutes on purpose, which gives us an alternative to working for a boss.
 
-[![]({{site.url}}/public/assets/2016-12-04-zoolocracy/holocracy.png)](https://docs.google.com/presentation/d/1Oq7hyYVO6ffE9L1IrLS6CPCQBk2kZhRRNlEdisw7ptc/edit#slide=id.p16)
+[![]({{site.url}}/public/assets/2016-12-04-zoolocracy/holacracy.png)](https://docs.google.com/presentation/d/1Oq7hyYVO6ffE9L1IrLS6CPCQBk2kZhRRNlEdisw7ptc/edit#slide=id.p16)
 
 Off to the exercise then.
 We were split up into a few teams and each team had to build a zoo in 4 sprints.
@@ -74,7 +74,7 @@ For me, __strategies kind of linked the purpose to the business value__.
 
 ## Takeaways
 
-I see now how these Holocracy concepts can make a team _better_.
+I see now how these Holacracy concepts can make a team _better_.
 It reminded me of the things you do when you form a new team or start a new project.
 Things like making a mission statement, a slogan, or agreeing upon a set of team values.
 
