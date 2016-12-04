@@ -40,7 +40,7 @@ At the end of the sprint, we had a pretty good score and were in 2nd place.
 In this sprint, the concept of purpose was installed. Our mission was to protect and preserve (endangered) animals and to give our visitors a marvelous experience.
 
 We tried different things to align with this purpose, like creating an education center to learn about pollution and the impact on nature, but we didn't receive extra points for this effort.
-Later, it was explained that purpose doesn't always mean the same thing as business value...
+Later, it was explained that __purpose doesn't always mean the same thing as business value__...
 
 At this point, we had also learned that it didn't matter how beautiful our animals were or how well crafted our plantlife was.
 An ugly, tiny elephant scribble would get just as many points.
