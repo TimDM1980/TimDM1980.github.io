@@ -10,20 +10,19 @@ On the second day of [XP Days 2016 Benelux](http://www.xpday.net/2016/), I atten
 They have [shared their slides](https://docs.google.com/presentation/d/1Oq7hyYVO6ffE9L1IrLS6CPCQBk2kZhRRNlEdisw7ptc/edit#slide=id.p4) if you're interested.
 In this session, they showed us how to evolve our scrum team by adding some core Holocracy concepts, and they did this by making us build a zoo!
 
-## Intro to Holocracy
+## Holocracy
 
 I can't recall a genuine introduction to Holocracy or something about it's origin.
-We talked a bit about what Holocracy brings to the table, being __purpose, roles, strategies and evolutionary change__.
+We talked a bit about what Holocracy would bring to the table, being __purpose, roles, strategies and evolutionary change__.
 We elaborated a few minutes on purpose, which gives us an alternative to working for a boss.
 
 [![]({{site.url}}/public/assets/2016-12-04-zoolocracy/holocracy.png)](https://docs.google.com/presentation/d/1Oq7hyYVO6ffE9L1IrLS6CPCQBk2kZhRRNlEdisw7ptc/edit#slide=id.p16)
 
 Off to the exercise then.
 We were split up into a few teams and each team had to build a zoo in 4 sprints.
-The _goal_ was to maximize customers coming to our zoo.
-Each sprint was preceded by an explanation and followed by scoring each team.
+The _goal_ was to maximize the amount of visitors.
 Each sprint took about 15 minutes, started with a planning meeting and ended with a retro.
-Also after each sprint, we would get scored by the trainers
+After eacht sprint, the teams would get scored and see there ranking.
 The first sprint was a warm-up round and with each next sprint, one of the aforementioned concepts would be added.
 
 ## Sprint 0: scrum and feedback 
@@ -34,7 +33,7 @@ We were all playing the _developer_ role by building the zoo and drawing/creatin
 We did no initial planning meeting and forgot to do a retrospective (self organised teams).
 At the end of the sprint, we had a pretty good score and were in 2nd place.
 
-![]({{site.url}}/public/assets/2016-12-04-zoolocracy/zoo.png)
+![]({{site.url}}/public/assets/2016-12-04-zoolocracy/zoo.jpg)
 
 ## Sprint 1: purpose
 
@@ -62,11 +61,11 @@ There was less chaos in the team, everybody had their goal.
 Also, we were back at making beautiful creations, I felt way better!
 We created some beautiful animal drawings, origami birds and 3D trees and plants.
 
-![]({{site.url}}/public/assets/2016-12-04-zoolocracy/adopt.png)
+![]({{site.url}}/public/assets/2016-12-04-zoolocracy/adopt.jpg)
 
-![]({{site.url}}/public/assets/2016-12-04-zoolocracy/birds.png)
+![]({{site.url}}/public/assets/2016-12-04-zoolocracy/birds.jpg)
 
-![]({{site.url}}/public/assets/2016-12-04-zoolocracy/plants.png)
+![]({{site.url}}/public/assets/2016-12-04-zoolocracy/plants.jpg)
 
 ## Sprint 3: strategies
 
@@ -82,6 +81,6 @@ Things like making a mission statement, a slogan, or agreeing upon a set of team
 The thing that sticked however, was how sad I felt when we were in the rat race, and how nice it was to go back to craftsmanship afterwards.
 It made me realize once more why exactly I love this job and that software development can be so much more than just churning out code.
 
-![]({{site.url}}/public/assets/2016-12-04-zoolocracy/almost-dead.png)
+![]({{site.url}}/public/assets/2016-12-04-zoolocracy/almost-dead.jpg)
 
-![]({{site.url}}/public/assets/2016-12-04-zoolocracy/palm-tree.png)
+![]({{site.url}}/public/assets/2016-12-04-zoolocracy/palm-tree.jpg)
