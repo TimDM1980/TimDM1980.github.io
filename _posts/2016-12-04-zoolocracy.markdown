@@ -17,7 +17,6 @@ We talked a bit about what Holacracy would bring to the table, being __purpose, 
 We elaborated a few minutes on purpose, which gives us an alternative to working for a boss.
 
 [![]({{site.url}}/public/assets/2016-12-04-zoolocracy/concepts.png)](https://docs.google.com/presentation/d/1Oq7hyYVO6ffE9L1IrLS6CPCQBk2kZhRRNlEdisw7ptc/edit#slide=id.p16)
-[![]({{site.url}}/public/assets/2016-12-04-zoolocracy/concepts.png)](https://docs.google.com/presentation/d/1Oq7hyYVO6ffE9L1IrLS6CPCQBk2kZhRRNlEdisw7ptc/edit#slide=id.p16)
 
 Off to the exercise then.
 We were split up into a few teams and each team had to build a zoo in 4 sprints.
