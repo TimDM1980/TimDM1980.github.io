@@ -1,0 +1,50 @@
+---
+published: true
+title: Sociocracy 3.0
+layout: post
+tags: [s3, xpdays]
+categories: [Conference]
+---
+
+On the second day of [XP Days 2016 Benelux](http://www.xpday.net/2016/), I attended the [Sociocracy 3.0 session](http://www.xpday.net/2016/friday/#session_398) by [Jef Cumps](https://twitter.com/@jcumps) and Johan Decoster from [iLean](http://www.ilean.be/).
+This session was about getting to know the basics of Sociocracy 3.0, or S3 in short.
+We also got our hands dirty on an S3 technique called driver mapping.
+
+##S3
+
+S3 is a pretty young _framework_, built around passion and innovation.
+It's a principles-based pattern-language, for more conscious, passionate and effective collaboration.
+You can interpret _pattern-language_ as a backpack full of techniques (driver mapping is one of them by the way).
+Principles-based means it is built around 7 principles, as shown in the picture below.
+S3 is _open & free_, kind of like open source software I guess.
+
+[![]({{site.url}}/public/assets/2016-12-04-s3/principles.jpg)](http://www.ilean.be/)
+
+Jef mentioned that, in the Netherlands, you can legally create a Sociocratic company. 
+I guess this could mean that there are no bosses, no unions, etc...
+
+Jef and Johan showed us the difference between S3 and Holacracy and gave us a small history lesson.
+From what I understood, Holacracy (founded in 2007) is like a _copy-paste_ of the _classic_ Sociocracy.
+2 guys named James Priest and Bernhard Bockelbrink didn't like where this was going and they founded S3 in 2014.
+Holacracy is more constrained and has more rules than S3.
+Also, Sociocracy is harder to write and pronounce :-)
+
+##Good enough for now, safe enough to try
+
+Next, we dove into some decision making models.
+We compared consent to consensus and some other popular models, and we looked at how consent could work in practice.
+With consent, you go for something that is _good enough for now and safe enough to try_.
+There's a lot of important stuff hidden in these few words...
+
+* good enough ... to try: there may be concerns, but that's OK, let's try it
+* for now: decisions will be evaluated later
+* safe enough: although concerns are OK, objections will block a proposal (but not it's driver)
+
+I like this approach because it feels like it's quick and easy to go and try something.
+And it's evaluated later on, so it's basically _inspect and adapt_.
+
+##Driver Mapping
+
+I won't write anything about this, since my colleague [Tim Schraepen](https://twitter.com/TimSchraepen) has [blogged about it](https://sch3lp.github.io/2016/09/11/darefest-2016/) recently.
+
+[![]({{site.url}}/public/assets/2016-12-04-s3/jef.jpg)](http://www.ilean.be/)
