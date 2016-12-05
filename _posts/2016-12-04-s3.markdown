@@ -10,7 +10,7 @@ On the second day of [XP Days 2016 Benelux](http://www.xpday.net/2016/), I atten
 This session was about getting to know the basics of Sociocracy 3.0, or S3 in short.
 We also got our hands dirty on an S3 technique called driver mapping.
 
-##S3
+## S3
 
 S3 is a pretty young _framework_, built around passion and innovation.
 It's a principles-based pattern-language, for more conscious, passionate and effective collaboration.
@@ -29,7 +29,7 @@ From what I understood, Holacracy (founded in 2007) is like a _copy-paste_ of th
 Holacracy is more constrained and has more rules than S3.
 Also, Sociocracy is harder to write and pronounce :-)
 
-##Good enough for now, safe enough to try
+## Good enough for now, safe enough to try
 
 Next, we dove into some decision making models.
 We compared consent to consensus and some other popular models, and we looked at how consent could work in practice.
@@ -43,7 +43,7 @@ There's a lot of important stuff hidden in these few words...
 I like this approach because it feels like it's quick and easy to go and try something.
 And it's evaluated later on, so it's basically _inspect and adapt_.
 
-##Driver Mapping
+## Driver Mapping
 
 I won't write anything about this, since my colleague [Tim Schraepen](https://twitter.com/TimSchraepen) has [blogged about it](https://sch3lp.github.io/2016/09/11/darefest-2016/) recently.
 
