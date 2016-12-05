@@ -22,7 +22,7 @@ Off to the exercise then.
 We were split up into a few teams and each team had to build a zoo in 4 sprints.
 The _goal_ was to maximize the amount of visitors.
 Each sprint took about 15 minutes, started with a planning meeting and ended with a retro.
-After eacht sprint, the teams would get scored and see there ranking.
+After eacht sprint, the teams would get scored and see their ranking.
 The first sprint was a warm-up round and with each next sprint, one of the aforementioned concepts would be added.
 
 ## Sprint 0: scrum and feedback 

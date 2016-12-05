@@ -9,3 +9,7 @@
   margin-right: .5em;
   border-radius: 30% 30% 0% 30%;
 }
+
+img {
+  max-width: 100%;
+}
