@@ -4,7 +4,7 @@ title: Posts Index
 ---
 
 <div class="posts">
-    {% for post in site.posts | sort: 'date', 'last' %}
+    {% for post in site.posts reversed %}
         <div class="index-post">
         <a href="{{ post.url }}">{{ post.title }}</a>
         ({{ post.date | date_to_string }})
