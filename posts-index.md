@@ -3,17 +3,19 @@ layout: page
 title: Posts Index
 ---
 
-{% for post in site.posts %}
-    <a href="{{ post.url }}">
-    {{ post.title }}
-    </a>
+<div class="posts">
+    {% for post in site.posts | sort %}
+        <a href="{{ post.url }}">
+        {{ post.title }}
+        </a>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+        <span class="post-date">{{ post.date | date_to_string }}</span>
 
-{% endfor %}
+    {% endfor %}
+</div>
 
 <div class="posts">
-  {% for post in site.posts %}
+  {% for post in site.posts | sort: 'date' %}
   <div class="post">
     <a href="{{ post.url }}">
     {{ post.title }}
