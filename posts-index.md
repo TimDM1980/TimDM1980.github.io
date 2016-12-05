@@ -14,7 +14,6 @@ v1
             #{{ tag[0] }}
         </span>
         {% endfor %}
-        {{ page.tags | array_to_sentence_string: 'or' }}
     {% endfor %}
 </div>
 
@@ -23,7 +22,7 @@ v1
         <div class="post">
         <a href="{{ post.url }}">{{ post.title }}</a>
         ({{ post.date | date_to_string }})
-        {{ page.tags | array_to_sentence_string: '' }}
+        {{ page.tags | array_to_sentence_string: 'aaa' }}
         </div>
     {% endfor %}
 </div>
