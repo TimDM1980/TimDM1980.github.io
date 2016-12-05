@@ -22,7 +22,7 @@ v1
         <div class="post">
         <a href="{{ post.url }}">{{ post.title }}</a>
         ({{ post.date | date_to_string }})
-        {{ page.tags | array_to_sentence_string: 'aaa' }}
+        {{ post.tags | array_to_sentence_string: '' }}
         </div>
     {% endfor %}
 </div>
