@@ -10,13 +10,11 @@ On the second day of [XP Days 2016 Benelux](http://www.xpday.net/2016/), I atten
 This session was about getting to know the basics of Sociocracy 3.0, or S3 in short.
 We also got our hands dirty on an S3 technique called driver mapping.
 
-<!--more-->
-
 ## S3
 
 S3 is a pretty young _framework_, built around passion and innovation.
 It's a principles-based pattern-language, for more conscious, passionate and effective collaboration.
-You can interpret _pattern-language_ as a backpack full of techniques (driver mapping is one of them by the way).
+You can interpret _pattern-language_ as a backpack full of <!--more--> techniques (driver mapping is one of them by the way).
 Principles-based means it is built around 7 principles, as shown in the picture below.
 S3 is _open & free_, kind of like open source software I guess.
 

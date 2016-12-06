@@ -10,12 +10,10 @@ On the second day of [XP Days 2016 Benelux](http://www.xpday.net/2016/), I atten
 They have [shared their slides](https://docs.google.com/presentation/d/1Oq7hyYVO6ffE9L1IrLS6CPCQBk2kZhRRNlEdisw7ptc/edit#slide=id.p4) if you're interested.
 In this session, they showed us how to evolve our scrum team by adding some core Holacracy concepts, and they did this by making us build a zoo!
 
-<!--more-->
-
 ## Holacracy
 
 I can't recall a genuine introduction to Holacracy or something about it's origin.
-We talked a bit about what Holacracy would bring to the table, being __purpose, roles, strategies and evolutionary change__.
+We talked a bit about what Holacracy would bring to the table, being __purpose, roles, strategies and <!--more--> evolutionary change__.
 We elaborated a few minutes on purpose, which gives us an alternative to working for a boss.
 
 [![]({{site.url}}/public/assets/2016-12-04-zoolocracy/concepts.png)](https://docs.google.com/presentation/d/1Oq7hyYVO6ffE9L1IrLS6CPCQBk2kZhRRNlEdisw7ptc/edit#slide=id.p16)
