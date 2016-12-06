@@ -22,7 +22,7 @@ title: Tag Cloud
             <h3><a id="{{ tag | first | slugify }}" class="tag-cloud-anchor">#{{tagname}}</a></h3>
             <div>
                 {% for post in site.tags[tagname] %}
-                    <a href="{{ post.url }}">{{ post.title }}</a><br/>
+                    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br/>
                 {% endfor %}
             </div>
         </div>
