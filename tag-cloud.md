@@ -3,7 +3,7 @@ layout: page
 title: Tag Cloud
 ---
 
-<div>
+<div class="tag-cloud">
     {% assign tags = site.tags | sort %}
     {% for tag in tags %}
         <span class="site-tag">
@@ -19,7 +19,7 @@ title: Tag Cloud
     {% for tag in tags %}
         <div class="index-post">
             {% assign tagname = tag[0] %}
-            <h2><a id="{{ tag | first | slugify }}" class="tag-cloud-anchor">Posts with tag #{{tagname}}</a></h2>
+            <h3><a id="{{ tag | first | slugify }}" class="tag-cloud-anchor">Posts with tag #{{tagname}}</a></h3>
             <div>
                 {% for post in site.tags[tagname] %}
                     <a href="{{ post.url }}">{{ post.title }}</a><br/>

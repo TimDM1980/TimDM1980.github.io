@@ -23,6 +23,10 @@ img {
     margin-right: 12px;
 }
 
-.tag-cloud-anchor {
-    color: #303030;
+.tag-cloud {
+    margin-bottom: 5em;
+}
+
+.tag-cloud-anchor a {
+    color: #303030 !important;
 }
