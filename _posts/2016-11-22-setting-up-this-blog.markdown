@@ -12,7 +12,7 @@ For this, GitHub uses a static site generator called [Jekyll](https://github.com
 
 I learned from my colleague [Sch3lp](https://sch3lp.github.io) that GitHub Pages can also be used for blogging and I liked the idea to have my blog tied to my github account.
 
-My first attempt was to follow [these instructions](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/).
+My first attempt was to <!--more--> follow [these instructions](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/).
 However, this was rather tedious, because it involves setting up Jekyll locally so you can build and preview your Blog before pushing your changes. It seems Jekyll and Windows don't get along and you need to do some [experimental setup](http://jekyllrb.com/docs/windows/#installation).
 
 I decided I wanted an easier way to get started, asked google and bumped into [TinyPress](https://tinypress.co).

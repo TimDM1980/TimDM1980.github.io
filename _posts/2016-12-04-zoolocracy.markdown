@@ -14,7 +14,7 @@ In this session, they showed us how to evolve our scrum team by adding some core
 
 I can't recall a genuine introduction to Holacracy or something about it's origin.
 We talked a bit about what Holacracy would bring to the table, being __purpose, roles, strategies and evolutionary change__.
-We elaborated a few minutes on purpose, which gives us an alternative to working for a boss.
+We elaborated a few minutes on purpose, which gives us an alternative to <!--more--> working for a boss.
 
 [![]({{site.url}}/public/assets/2016-12-04-zoolocracy/concepts.png)](https://docs.google.com/presentation/d/1Oq7hyYVO6ffE9L1IrLS6CPCQBk2kZhRRNlEdisw7ptc/edit#slide=id.p16)
 

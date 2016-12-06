@@ -10,7 +10,7 @@ On the evening of the first day of [XP Days 2016 Benelux](http://www.xpday.net/2
 This session started at 9pm and ended at 10.30pm :-) 
 I had planned to go to my hotel after dinner and blog about my experiences during the first day, but during dinner I had an interesting talk with Rob and I decided I wanted to see the dry-run.
 
-Their talk was about a project that consisted of a monolith java codebase.
+Their talk was about a project that consisted of a monolith <!--more--> java codebase.
 It was hard to add features or implement changes, the domain was pretty entangled.
 The domain entities were representations of the database and they bubbled upwards through the architectural layers.
 

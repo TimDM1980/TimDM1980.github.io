@@ -9,7 +9,7 @@ categories: [Conference]
 _All used images are clickable and clicking them leads to their source._
 
 On the first day of [XP Days 2016 Benelux](http://www.xpday.net/2016/), I attended the [Real Time Coaching](http://www.xpday.net/2016/thursday/#session_468) workshop given by agile coach [Dajo Breddels](http://www.dajobreddels.com/) and hypnotherapist Wijnand van Colle.
-Their intent was to give us some insights from Neuro-Science and combine that with some NLP techniques, to make us more effective coaches.
+Their intent was to give us some insights from Neuro-Science and combine that with <!--more--> some NLP techniques, to make us more effective coaches.
 In this post, I will guide you through the workshop and __tell you the things I learned__.
 
 ## Gamma Waves
