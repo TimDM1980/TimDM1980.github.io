@@ -16,7 +16,7 @@ Our mission during this session was to create a 4-level skill matrix for our tea
 We started off by deciding which 8 skills would be the most important to get the job done. 
 The skills we had to choose were hard skills, but you could also do this for soft skills or even functional domains. 
 We were also given a few predefined roles (e.g. UX designer, DB expert, ...) to simplify the exercise.
-We plotted all the skills and the team members (and their roles) onto a matrix and each team member decided for him/herself whether he/she knew each skill (tickmark top left corner). 
+We plotted all the skills <!--more--> and the team members (and their roles) onto a matrix and each team member decided for him/herself whether he/she knew each skill (tickmark top left corner). 
 This already showed us some duplicates and gaps.
 
 ![]({{site.url}}/public/assets/2016-11-27-skill-matrix/skill-matrix-level-1.jpg)

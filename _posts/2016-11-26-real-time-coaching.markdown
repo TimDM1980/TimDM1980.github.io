@@ -16,7 +16,7 @@ In this post, I will guide you through the workshop and __tell you the things I 
 
 [![](https://usercontent1.hubstatic.com/8388024.jpg){:width="600px"}](https://usercontent1.hubstatic.com/8388024.jpg)
 
-First they gave us an explanation about the different types of brain waves. It seems that when we're engaged in activities, our brain is mainly generating beta waves. There are also other types of waves, including alpha, theta, delta and gamma. __Gamma waves are said to be great for learning__ but they are not easy to tap into. Dajo and Wijnand gave us the choice: we could meditate for years and years like Buddhist monks, or we could try flipping a [necker cube](https://en.wikipedia.org/wiki/Necker_cube).
+First they gave us an explanation about the different types of brain waves. It seems that when we're engaged in activities, our brain is mainly generating <!--more--> beta waves. There are also other types of waves, including alpha, theta, delta and gamma. __Gamma waves are said to be great for learning__ but they are not easy to tap into. Dajo and Wijnand gave us the choice: we could meditate for years and years like Buddhist monks, or we could try flipping a [necker cube](https://en.wikipedia.org/wiki/Necker_cube).
 
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Necker_cube.svg/220px-Necker_cube.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Necker_cube.svg/220px-Necker_cube.svg.png)
 
