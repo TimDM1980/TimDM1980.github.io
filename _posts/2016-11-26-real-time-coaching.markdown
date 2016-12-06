@@ -38,7 +38,7 @@ Next up was Neuroplasticity, which is about how the brain is constantly changing
 
 Now it was time to apply all this and to refine our coaching skills. The most important thing I learned was about coaching at the right time, which is while the activity is still going on. I'll try to explain why this is so very important: when a coachee is doing an activity, he or she is firing impulses in a certain area in the brain. When you as a coach are coaching him/her, this is also firing impulses in another part of the brain. In order for your coaching to _stick_, connections must be established betweend these different parts. These connections can only be made while both parts are busy firing impulses. In conclusion, __coaching must be done by giving direct feedback!__
 
-![]({{site.url}}/public/assets/2016-11-26-real-time-coaching/direct-feedback.jpg)
+![]({{site.baseurl}}/public/assets/2016-11-26-real-time-coaching/direct-feedback.jpg)
 
 It's one thing to say that direct feedback is better, but doing it is quite something else. How do you give direct feedback when there is a tension between 2 people in a retrospective for example? Do you call it out and confront them? Do you take them offline to talk about it? Did you see this coming and started the retro by mentioning [the prime directive](http://www.retrospectives.com/pages/retroPrimeDirective.html)? Direct feedback can be quite harmful if it is not done well, and the problem is you don't have time to ponder upon your options.  
 

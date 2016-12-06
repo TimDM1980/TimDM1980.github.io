@@ -16,7 +16,7 @@ I can't recall a genuine introduction to Holacracy or something about it's origi
 We talked a bit about what Holacracy would bring to the table, being __purpose, roles, strategies and evolutionary change__.
 We elaborated a few minutes on purpose, which gives us an alternative to <!--more--> working for a boss.
 
-[![]({{site.url}}/public/assets/2016-12-04-zoolocracy/concepts.png)](https://docs.google.com/presentation/d/1Oq7hyYVO6ffE9L1IrLS6CPCQBk2kZhRRNlEdisw7ptc/edit#slide=id.p16)
+[![]({{site.baseurl}}/public/assets/2016-12-04-zoolocracy/concepts.png)](https://docs.google.com/presentation/d/1Oq7hyYVO6ffE9L1IrLS6CPCQBk2kZhRRNlEdisw7ptc/edit#slide=id.p16)
 
 Off to the exercise then.
 We were split up into a few teams and each team had to build a zoo in 4 sprints.
@@ -33,7 +33,7 @@ We were all playing the _developer_ role by building the zoo and drawing/creatin
 We did no initial planning meeting and forgot to do a retrospective (self organised teams).
 At the end of the sprint, we had a pretty good score and were in 2nd place.
 
-![]({{site.url}}/public/assets/2016-12-04-zoolocracy/zoo.jpg)
+![]({{site.baseurl}}/public/assets/2016-12-04-zoolocracy/zoo.jpg)
 
 ## Sprint 1: purpose
 
@@ -61,11 +61,11 @@ There was less chaos in the team, everybody had their goal.
 Also, we were back at making beautiful creations, I felt way better already!
 We created some nice animal drawings, origami birds and 3D trees and plants.
 
-![]({{site.url}}/public/assets/2016-12-04-zoolocracy/adopt.jpg)
+![]({{site.baseurl}}/public/assets/2016-12-04-zoolocracy/adopt.jpg)
 
-![]({{site.url}}/public/assets/2016-12-04-zoolocracy/birds.jpg)
+![]({{site.baseurl}}/public/assets/2016-12-04-zoolocracy/birds.jpg)
 
-![]({{site.url}}/public/assets/2016-12-04-zoolocracy/plants.jpg)
+![]({{site.baseurl}}/public/assets/2016-12-04-zoolocracy/plants.jpg)
 
 ## Sprint 3: strategies
 
@@ -81,6 +81,6 @@ Things like making a mission statement, a slogan, or agreeing upon a set of team
 The thing that sticked however, was how sad I felt when we were in the rat race, and how nice it was to go back to craftsmanship afterwards.
 It made me realize once more why exactly I love this job and that __software development should be about other things than just churning out code__.
 
-![]({{site.url}}/public/assets/2016-12-04-zoolocracy/almost-dead.jpg)
+![]({{site.baseurl}}/public/assets/2016-12-04-zoolocracy/almost-dead.jpg)
 
-![]({{site.url}}/public/assets/2016-12-04-zoolocracy/palm-tree.jpg)
+![]({{site.baseurl}}/public/assets/2016-12-04-zoolocracy/palm-tree.jpg)

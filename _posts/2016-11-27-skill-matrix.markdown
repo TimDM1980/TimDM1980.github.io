@@ -19,7 +19,7 @@ We were also given a few predefined roles (e.g. UX designer, DB expert, ...) to 
 We plotted all the skills <!--more--> and the team members (and their roles) onto a matrix and each team member decided for him/herself whether he/she knew each skill (tickmark top left corner). 
 This already showed us some duplicates and gaps.
 
-![]({{site.url}}/public/assets/2016-11-27-skill-matrix/skill-matrix-level-1.jpg)
+![]({{site.baseurl}}/public/assets/2016-11-27-skill-matrix/skill-matrix-level-1.jpg)
 
 I asked Annelies why we had to choose exactly 8 skills. 
 She said this was just to simplify the exercise. 
@@ -51,7 +51,7 @@ So now it was time to bring in the team and have some discussion about how the t
 Pro tip: do this planning poker style, to avoid influence by one another.
 Even better: do this immediately in level 1, so the team doesn't already know how a particular person rates him/herself.
 
-![]({{site.url}}/public/assets/2016-11-27-skill-matrix/skill-matrix-level-4.jpg)
+![]({{site.baseurl}}/public/assets/2016-11-27-skill-matrix/skill-matrix-level-4.jpg)
 
 ## Taking it further
 
@@ -65,7 +65,7 @@ Other people were also thinking about how the gaps could be valuable input for a
 
 The trainers made a nice poster of the 4 levels (clicking it brings you to their website).
 
-[![]({{site.url}}/public/assets/2016-11-27-skill-matrix/skill-matrix-poster.jpg)](https://co-learning.be/)
+[![]({{site.baseurl}}/public/assets/2016-11-27-skill-matrix/skill-matrix-poster.jpg)](https://co-learning.be/)
 
 This was a nice interactive breakdown about how to set up a skill matrix wich can lead to interesting information about the team (now and in the months/years to come).
 It looks at skills from the team angle, rather than the career path of an individual.

@@ -18,7 +18,7 @@ You can interpret _pattern-language_ as a backpack full of <!--more--> technique
 Principles-based means it is built around 7 principles, as shown in the picture below.
 S3 is _open & free_, kind of like open source software I guess.
 
-[![]({{site.url}}/public/assets/2016-12-04-s3/principles.jpg)](http://www.ilean.be/)
+[![]({{site.baseurl}}/public/assets/2016-12-04-s3/principles.jpg)](http://www.ilean.be/)
 
 Jef mentioned that, in the Netherlands, you can legally create a Sociocratic company. 
 I guess this could mean that there are no bosses, no unions, etc...
@@ -47,4 +47,4 @@ And it's evaluated later on, so it's basically _inspect and adapt_.
 
 I won't write anything about this, since my colleague [Tim Schraepen](https://twitter.com/TimSchraepen) has [blogged about it](https://sch3lp.github.io/2016/09/11/darefest-2016/) recently.
 
-[![]({{site.url}}/public/assets/2016-12-04-s3/jef.jpg)](http://www.ilean.be/)
+[![]({{site.baseurl}}/public/assets/2016-12-04-s3/jef.jpg)](http://www.ilean.be/)
