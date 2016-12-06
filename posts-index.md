@@ -9,7 +9,7 @@ title: Posts Index
             <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
             ({{ post.date | date_to_string }})
             {% for tag in post.tags | sort %}
-                <a href="{{site.url}}/tag-cloud.html#{{tag}}">#{{tag}}</a>
+                <a href="{{site.baseurl}}/tag-cloud.html#{{tag}}">#{{tag}}</a>
             {% endfor %}
         </div>
     {% endfor %}
