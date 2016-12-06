@@ -8,7 +8,7 @@ title:               Tim De Meyer
 tagline:             'Coffee solves every problem! Either that, or a level of indirection...'
 description:         'What is in my drawer?'
 url:                 http://bktid.github.io
-baseurl:             ''
+baseurl:             '/'
 paginate:            5
 
 # About/contact
