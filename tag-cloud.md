@@ -3,17 +3,17 @@ layout: page
 title: Tag Cloud
 ---
 
-{% assign tags = site.tags | sort %}
-
-{% for tag in tags %}
-    <span class="site-tag">
-        <a href="/tag-cloud.html#{{ tag | first | slugify }}" 
-        style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
-            {{ tag | first }} ({{ tag | last | size }})
-        </a>
-    </span>
-{% endfor %}
-
+<div>
+    {% assign tags = site.tags | sort %}
+    {% for tag in tags %}
+        <span class="site-tag">
+            <a href="/tag-cloud.html#{{ tag | first | slugify }}" 
+            style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
+                {{ tag | first }} ({{ tag | last | size }})
+            </a>
+        </span>
+    {% endfor %}
+</div>
 
 <div>
     {% for tag in tags %}
@@ -31,12 +31,7 @@ title: Tag Cloud
 <h1>testje</h1>
 <div>
     {% for tag in tags %}
-        <div>
-        {% for taggy in tag %}
-            <div>
-            {{ taggy }} <br/>
-            </div>
-        {% endfor %}
-        </div>
+        {{ tag | last | size  }}
+        {{ tag | last }}
     {% endfor %}
 </div>
