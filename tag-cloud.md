@@ -17,7 +17,7 @@ title: Tag Cloud
 
 <div>
     {% for tag in tags %}
-        <div class="index-post">
+        <div class="tag-cloud-tag-div">
             {% assign tagname = tag[0] %}
             <h3><a id="{{ tag | first | slugify }}" class="tag-cloud-anchor">Posts with tag #{{tagname}}</a></h3>
             <div>
