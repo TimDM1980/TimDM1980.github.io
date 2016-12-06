@@ -19,7 +19,6 @@ title: Tag Cloud
     {% for tag in tags %}
     
         <a id="{{ tag | first | slugify }}">
-            Posts with tag {{tag}}
             Posts with tag {{tag[0]}}
         </a>
 
