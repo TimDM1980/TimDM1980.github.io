@@ -10,6 +10,8 @@ On the second day of [XP Days 2016 Benelux](http://www.xpday.net/2016/), I atten
 They have [shared their slides](https://docs.google.com/presentation/d/1Oq7hyYVO6ffE9L1IrLS6CPCQBk2kZhRRNlEdisw7ptc/edit#slide=id.p4) if you're interested.
 In this session, they showed us how to evolve our scrum team by adding some core Holacracy concepts, and they did this by making us build a zoo!
 
+<!--more-->
+
 ## Holacracy
 
 I can't recall a genuine introduction to Holacracy or something about it's origin.
