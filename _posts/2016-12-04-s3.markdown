@@ -10,6 +10,8 @@ On the second day of [XP Days 2016 Benelux](http://www.xpday.net/2016/), I atten
 This session was about getting to know the basics of Sociocracy 3.0, or S3 in short.
 We also got our hands dirty on an S3 technique called driver mapping.
 
+<!--more-->
+
 ## S3
 
 S3 is a pretty young _framework_, built around passion and innovation.
