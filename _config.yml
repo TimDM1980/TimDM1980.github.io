@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Tim De Meyer
 tagline:             'Coffee solves every problem! Either that, or a level of indirection...'
-description:         'What's in my drawer?'
+description:         'What is in my drawer?'
 url:                 http://bktid.github.io
 baseurl:             ''
 paginate:            5
