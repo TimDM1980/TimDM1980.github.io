@@ -17,13 +17,16 @@ title: Tag Cloud
 
 <div>
     {% for tag in tags %}
+        {% assign mytag = tag | first | slugify %}
+
         <div>
     
-        <a id="{{ tag | first | slugify }}">
+        <a id="{{ mytag }}">
             Posts with tag {{tag[0]}}
         </a>
 
-        {% for post in site.tags[tag[0]] %}
+        mytag...
+        {% for post in site.tags[mytag] %}
             <a href="{{ post.url }}">{{ post.title }}</a> <br/>
         {% endfor %}
         
