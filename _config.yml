@@ -1,7 +1,9 @@
 # Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
+# I have disabled all permalink config
+# relative_permalinks: is unsupported by github pages
+# also, permalink: breaks my links posted on twitter (removes .html extension) 
 # permalink:           pretty
+# relative_permalinks: true
 
 # Setup
 title:               Tim De Meyer
