@@ -25,7 +25,7 @@ title: Tag Cloud
             Posts with tag {{tag[0]}}
         </a>
 
-        mytag...
+        {{ mytag }}...
         {% for post in site.tags[mytag] %}
             <a href="{{ post.url }}">{{ post.title }}</a> <br/>
         {% endfor %}
