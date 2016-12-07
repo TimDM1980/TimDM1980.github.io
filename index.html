@@ -15,7 +15,8 @@ title: Home
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.excerpt | remove: '</p>' | append: '<a href=&quot;{{ site.baseurl }}{{ post.url }}&quot;>...</a>' | append: '</p>' }}
+    {% assign tripleDotLink = '<a href=&quot;{{ site.baseurl }}{{ post.url }}&quot;>...</a>' %}
+    {{ post.excerpt | remove: '</p>' | append: tripleDotLink | append: '</p>' }}
   </div>
   {% endfor %}
 </div>
