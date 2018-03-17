@@ -3,7 +3,7 @@ layout: page
 title: Who am I?
 ---
 
-I'm a Belgian software developer working at [Cegeka](https://www.cegeka.com). 
+I'm a Belgian software developer working at [Kunlabora](https://www.kunlabora.be). 
 I thrive in Agile environments using methodologies like XP, Scrum and Kanban.
 
 ![]({{ site.avatar }}){: .whoami-logo}
